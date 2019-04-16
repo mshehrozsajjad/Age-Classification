@@ -1,4 +1,4 @@
-# Age-And-Gender-Classification
+# Age-Classification
 Age and gender classification is a dual-task of identifying the age and gender of a person from an image or video.
 
 # CORAL: Consistent Rank Logits for Ordinal Regression with Convolutional Neural Networks
@@ -14,7 +14,7 @@ This repository contains code based on paper
 ---
 
 
-## Model code
+## ModeAndl code
 
 Note that the model code across datasets
 is identical for the different datasets, however,
